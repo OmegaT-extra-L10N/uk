@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9fa0c2fcd" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195624Z" creationid="Kos Ivantsov" creationdate="20210415T195624Z">
+        <seg>Інший пакунок з такою самою назвою вже існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174445Z" creationid="Kos Ivantsov" creationdate="20190828T174445Z">
+        <seg>Неможливо повторити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174412Z" creationid="Kos Ivantsov" creationdate="20190828T174412Z">
+        <seg>Неможливо скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194838Z" creationid="Kos Ivantsov" creationdate="20210406T194838Z">
+        <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111356Z" creationid="Kos Ivantsov" creationdate="20210416T111356Z">
+        <seg>Символів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174541Z" creationid="Kos Ivantsov" creationdate="20190828T174541Z">
+        <seg>Вибір тексту, який нещодавно додавався до буфера обміну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174552Z" creationid="Kos Ivantsov" creationdate="20190828T174552Z">
+        <seg>Історія буфера обміну:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172911Z" creationid="Kos Ivantsov" creationdate="20190828T172911Z">
+        <seg>Згорнути всі коментарі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172821Z" creationid="Kos Ivantsov" creationdate="20190828T172821Z">
+        <seg>Згорнути все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172927Z" creationid="Kos Ivantsov" creationdate="20190828T172927Z">
+        <seg>Згортання усіх блоків з коментарями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172900Z" creationid="Kos Ivantsov" creationdate="20190828T172900Z">
+        <seg>Згортання всіх блоків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110915Z" creationid="Kos Ivantsov" creationdate="20210416T110915Z">
+        <seg>Доступна допомога щодо вмісту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173303Z" creationid="Kos Ivantsov" creationdate="20190828T173303Z">
+        <seg>Копіювання вибраного тексту до буфера обміну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190807T183244Z" creationid="Kos Ivantsov" creationdate="20190807T183244Z">
+        <seg>Копіювати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195759Z" creationid="Kos Ivantsov" creationdate="20210406T195759Z">
+        <seg>Помилка копіювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093344Z" creationid="Kos Ivantsov" creationdate="20210415T093344Z">
+        <seg>Створення нового проєкту з пакунка OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190807T183238Z" creationid="Kos Ivantsov" creationdate="20190807T183238Z">
+        <seg>Вирізати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173347Z" creationid="Kos Ivantsov" creationdate="20190828T173347Z">
+        <seg>Видалити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T200113Z" creationid="Kos Ivantsov" creationdate="20210415T195730Z">
+        <seg>Видалення пакунка OMT після розпакування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195935Z" creationid="Kos Ivantsov" creationdate="20210415T195935Z">
+        <seg>Видалення проєкту...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105734Z" creationid="Kos Ivantsov" creationdate="20210416T105734Z">
+        <seg>Напрямок:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195720Z" creationid="Kos Ivantsov" creationdate="20210415T195720Z">
+        <seg>Чи бажаєте ви видалили файл пакунка OMT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195608Z" creationid="Kos Ivantsov" creationdate="20210415T195608Z">
+        <seg>Ви дійсно бажаєте замінити його перекладом з пакунка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195630Z" creationid="Kos Ivantsov" creationdate="20210415T195630Z">
+        <seg>Ви бажаєте перезаписати цей пакунок?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105740Z" creationid="Kos Ivantsov" creationdate="20210416T105740Z">
+        <seg>Донизу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195904Z" creationid="Kos Ivantsov" creationdate="20210406T195904Z">
+        <seg>Коментовані файли Doxygen (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111412Z" creationid="Kos Ivantsov" creationdate="20210416T111412Z">
+        <seg>Кодування:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105033Z" creationid="Kos Ivantsov" creationdate="20210416T105033Z">
+        <seg>Помилка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172946Z" creationid="Kos Ivantsov" creationdate="20190828T172946Z">
+        <seg>Розгорнути все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173024Z" creationid="Kos Ivantsov" creationdate="20190828T173024Z">
+        <seg>Розгортання всіх блоків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111438Z" creationid="Kos Ivantsov" creationdate="20210416T111438Z">
+        <seg>Розмір файлу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195615Z" creationid="Kos Ivantsov" creationdate="20210406T195615Z">
+        <seg>Файли з параметрами фільтра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194417Z" creationid="Kos Ivantsov" creationdate="20210406T193708Z">
+        <seg>Налаштування файлових фільтрів &lt;b&gt;ужиті лише в цьому проєкті&lt;/b&gt;.&lt;br&gt;Після натискання кнопки «Гаразд» файл з параметрами буде скопійовано сюди:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105705Z" creationid="Kos Ivantsov" creationdate="20210416T105705Z">
+        <seg>Знати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110803Z" creationid="Kos Ivantsov" creationdate="20210416T110803Z">
+        <seg>Знайти попереднє</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110019Z" creationid="Kos Ivantsov" creationdate="20210416T110019Z">
+        <seg>Шукати:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110556Z" creationid="Kos Ivantsov" creationdate="20210416T110556Z">
+        <seg>Знайти:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172344Z" creationid="Kos Ivantsov" creationdate="20190828T172344Z">
+        <seg>Згортання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210417T111904Z" creationid="Kos Ivantsov" creationdate="20210417T111904Z">
+        <seg>Нечіткий збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210417T111907Z" creationid="Kos Ivantsov" creationdate="20210417T111907Z">
+        <seg>Проблеми з нечіткими збігами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105606Z" creationid="Kos Ivantsov" creationdate="20210416T105606Z">
+        <seg>Перейти до рядка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194915Z" creationid="Kos Ivantsov" creationdate="20210406T194915Z">
+        <seg>Файли HTML (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194926Z" creationid="Kos Ivantsov" creationdate="20210406T194925Z">
+        <seg>Файли InDesign IDML (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195313Z" creationid="Kos Ivantsov" creationdate="20210406T195313Z">
+        <seg>Включати в коментарі назву одиниці перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093314Z" creationid="Kos Ivantsov" creationdate="20210415T093314Z">
+        <seg>Недійсний пакунок OMT — відсутній файл оmegat.project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195753Z" creationid="Kos Ivantsov" creationdate="20210406T195753Z">
+        <seg>Проєкт відкрито?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195921Z" creationid="Kos Ivantsov" creationdate="20210406T195921Z">
+        <seg>Файли JSON (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111441Z" creationid="Kos Ivantsov" creationdate="20210416T111441Z">
+        <seg>Останні зміни:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105611Z" creationid="Kos Ivantsov" creationdate="20210416T105611Z">
+        <seg>Номер рядка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111400Z" creationid="Kos Ivantsov" creationdate="20210416T111400Z">
+        <seg>Розрив рядка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T171907Z" creationid="Kos Ivantsov" creationdate="20190828T171907Z">
+        <seg>Рядок: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111354Z" creationid="Kos Ivantsov" creationdate="20210416T111354Z">
+        <seg>Рядків:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110200Z" creationid="Kos Ivantsov" creationdate="20210416T110200Z">
+        <seg>Позначити все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195933Z" creationid="Kos Ivantsov" creationdate="20210406T195933Z">
+        <seg>Файли Markdown (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105807Z" creationid="Kos Ivantsov" creationdate="20210416T105807Z">
+        <seg>Враховувати регістр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195621Z" creationid="Kos Ivantsov" creationdate="20210406T195621Z">
+        <seg>Не вказано шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T171951Z" creationid="Kos Ivantsov" creationdate="20190828T171951Z">
+        <seg>Кілька маркерів у цьому рядку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200218Z" creationid="Kos Ivantsov" creationdate="20210406T200218Z">
+        <seg>Не знайдено елемент &lt;xliff&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195642Z" creationid="Kos Ivantsov" creationdate="20210406T195642Z">
+        <seg>Відсутній файл з параметрами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195732Z" creationid="Kos Ivantsov" creationdate="20210406T195732Z">
+        <seg>Відсутня тека проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200231Z" creationid="Kos Ivantsov" creationdate="20210406T200231Z">
+        <seg>Відсутній елемент у файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194829Z" creationid="Kos Ivantsov" creationdate="20210406T194829Z">
+        <seg>Гаразд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195638Z" creationid="Kos Ivantsov" creationdate="20210415T195638Z">
+        <seg>Пакунок OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093307Z" creationid="Kos Ivantsov" creationdate="20210415T093307Z">
+        <seg>Файл пакунка OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195636Z" creationid="Kos Ivantsov" creationdate="20210415T195636Z">
+        <seg>Пакунок OMT успішно створено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195759Z" creationid="Kos Ivantsov" creationdate="20210415T195759Z">
+        <seg>Пакунок OMT імпортовано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195920Z" creationid="Kos Ivantsov" creationdate="20210415T195920Z">
+        <seg>Проєкт запаковано у пакунок OMT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T172117Z" creationid="Kos Ivantsov" creationdate="20190828T172117Z">
+        <seg>Випадок вживання «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T193457Z" creationid="Kos Ivantsov" creationdate="20210406T193457Z">
+        <seg>Параметри фільтра Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T193646Z" creationid="Kos Ivantsov" creationdate="20210406T193503Z">
+        <seg>Параметри фільтра Okapi для файлів XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111448Z" creationid="Kos Ivantsov" creationdate="20210416T111448Z">
+        <seg>\r (стара MacOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195945Z" creationid="Kos Ivantsov" creationdate="20210406T195945Z">
+        <seg>Файли OpenXML (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195632Z" creationid="Kos Ivantsov" creationdate="20210415T195632Z">
+        <seg>Перезапис пакунка OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195616Z" creationid="Kos Ivantsov" creationdate="20210415T195616Z">
+        <seg>Перезапис файлу project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195939Z" creationid="Kos Ivantsov" creationdate="20210415T194838Z">
+        <seg>Запакувати та видалити проєкт...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T194812Z" creationid="Kos Ivantsov" creationdate="20210415T194812Z">
+        <seg>Запакувати проєкт як файл OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195903Z" creationid="Kos Ivantsov" creationdate="20210415T195903Z">
+        <seg>Пакування проєкту у файл OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190807T183257Z" creationid="Kos Ivantsov" creationdate="20190807T183257Z">
+        <seg>Вставити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174508Z" creationid="Kos Ivantsov" creationdate="20190828T174508Z">
+        <seg>Вставити з історії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111343Z" creationid="Kos Ivantsov" creationdate="20210416T111343Z">
+        <seg>Шлях:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105514Z" creationid="Kos Ivantsov" creationdate="20190828T173543Z">
+        <seg>Вставлення тексту з буфера обміну у поточній позиції в текстовому файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105637Z" creationid="Kos Ivantsov" creationdate="20210416T105637Z">
+        <seg>Укажіть число між 1 та</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T180206Z" creationid="Kos Ivantsov" creationdate="20190828T180206Z">
+        <seg>Для фокусування натисніть клавішу F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111345Z" creationid="Kos Ivantsov" creationdate="20210416T111345Z">
+        <seg>Властивості: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195542Z" creationid="Kos Ivantsov" creationdate="20210406T195542Z">
+        <seg>Захистити записи, які містять «state='final'» (якщо не вибрано, такі записи можна буде редагувати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200022Z" creationid="Kos Ivantsov" creationdate="20210406T200022Z">
+        <seg>Файли Qt TS (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174500Z" creationid="Kos Ivantsov" creationdate="20190828T174500Z">
+        <seg>Повторення останньої скасованої дії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174437Z" creationid="Kos Ivantsov" creationdate="20190828T174437Z">
+        <seg>Повторити останню дію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105817Z" creationid="Kos Ivantsov" creationdate="20210416T105817Z">
+        <seg>Регулярний вираз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173339Z" creationid="Kos Ivantsov" creationdate="20190828T173339Z">
+        <seg>Вилучення вибраного тексту та переміщення його до буфера обміну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173442Z" creationid="Kos Ivantsov" creationdate="20190828T173442Z">
+        <seg>Видалення вибраного тексту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110152Z" creationid="Kos Ivantsov" creationdate="20210416T110152Z">
+        <seg>Замінити все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110139Z" creationid="Kos Ivantsov" creationdate="20210416T110026Z">
+        <seg>Замінити на:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200011Z" creationid="Kos Ivantsov" creationdate="20210406T200011Z">
+        <seg>Файли SDL-XLIFF (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210417T112135Z" creationid="Kos Ivantsov" creationdate="20210417T112135Z">
+        <seg>Сегмент починається з префікса нечіткого збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T173803Z" creationid="Kos Ivantsov" creationdate="20190828T173803Z">
+        <seg>Вибрати Все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195603Z" creationid="Kos Ivantsov" creationdate="20210406T195603Z">
+        <seg>Вибрати файл з параметрами фільтра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195957Z" creationid="Kos Ivantsov" creationdate="20210415T093304Z">
+        <seg>Виберіть розташування та назву для пакунка OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093255Z" creationid="Kos Ivantsov" creationdate="20210415T093255Z">
+        <seg>Виберіть пакунок OMT для імпорту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174353Z" creationid="Kos Ivantsov" creationdate="20190828T174353Z">
+        <seg>Вибір усього тексту у поточному текстовому документі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110741Z" creationid="Kos Ivantsov" creationdate="20210416T110712Z">
+        <seg>Заміна у зворотному напрямку за клавішами Shift+Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110730Z" creationid="Kos Ivantsov" creationdate="20210416T110616Z">
+        <seg>Пошук у зворотному напрямку за клавішами Shift+Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195549Z" creationid="Kos Ivantsov" creationdate="20210406T195446Z">
+        <seg>Показати та захистити записи, які містять «translate='no'» (якщо не вибрано, такі записи не будуть витягуватися з файлу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195819Z" creationid="Kos Ivantsov" creationdate="20210406T195819Z">
+        <seg>На жаль, під час копіювання файлу з параметрами сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111456Z" creationid="Kos Ivantsov" creationdate="20210416T111456Z">
+        <seg>Типово для операційної системи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200036Z" creationid="Kos Ivantsov" creationdate="20210406T200036Z">
+        <seg>Файли TagEditor TTX (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174424Z" creationid="Kos Ivantsov" creationdate="20190828T174424Z">
+        <seg>Скасування останньої дії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195654Z" creationid="Kos Ivantsov" creationdate="20210415T195654Z">
+        <seg>Пакунок розпаковано успішно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195705Z" creationid="Kos Ivantsov" creationdate="20210406T195705Z">
+        <seg>Указаний файл з параметрами не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195600Z" creationid="Kos Ivantsov" creationdate="20210415T195600Z">
+        <seg>У цьому проєкті вже міститься попередній переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200154Z" creationid="Kos Ivantsov" creationdate="20210406T200154Z">
+        <seg>Відсутній атрибут версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105244Z" creationid="Kos Ivantsov" creationdate="20190828T172445Z">
+        <seg>Згорнути/розгорнути поточний блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105337Z" creationid="Kos Ivantsov" creationdate="20190828T172810Z">
+        <seg>Згортання або розгортання на місці текстового курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200110Z" creationid="Kos Ivantsov" creationdate="20210406T200110Z">
+        <seg>Файли проєктів Transifex (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111450Z" creationid="Kos Ivantsov" creationdate="20210416T111450Z">
+        <seg>\n (UNIX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195740Z" creationid="Kos Ivantsov" creationdate="20210406T195740Z">
+        <seg>Не вдалося визначити теку проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20190828T174402Z" creationid="Kos Ivantsov" creationdate="20190828T174402Z">
+        <seg>Скасувати зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T194730Z" creationid="Kos Ivantsov" creationdate="20210415T194730Z">
+        <seg>Розпакувати проект з файлу OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195747Z" creationid="Kos Ivantsov" creationdate="20210415T195747Z">
+        <seg>Розпаковування пакунка OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105737Z" creationid="Kos Ivantsov" creationdate="20210416T105737Z">
+        <seg>Догори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093332Z" creationid="Kos Ivantsov" creationdate="20210415T093332Z">
+        <seg>Оновлення поточного проєкту вмістом пакунка OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194752Z" creationid="Kos Ivantsov" creationdate="20210406T194752Z">
+        <seg>Використовувати типові параметри фільтра (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T194816Z" creationid="Kos Ivantsov" creationdate="20210406T194816Z">
+        <seg>Використовувати наступний файл з параметрами фільтра:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105810Z" creationid="Kos Ivantsov" creationdate="20210416T105810Z">
+        <seg>Ціле слово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111453Z" creationid="Kos Ivantsov" creationdate="20210416T111453Z">
+        <seg>\r\n (Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200047Z" creationid="Kos Ivantsov" creationdate="20210406T200047Z">
+        <seg>Файли Wordfast Pro TXML (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111357Z" creationid="Kos Ivantsov" creationdate="20210416T111357Z">
+        <seg>Слів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200119Z" creationid="Kos Ivantsov" creationdate="20210406T200119Z">
+        <seg>Файли XLIFF (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200133Z" creationid="Kos Ivantsov" creationdate="20210406T200133Z">
+        <seg>Файли XLIFF2 (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200350Z" creationid="Kos Ivantsov" creationdate="20210406T200307Z">
+        <seg>Файли XML (фільтр Okapi — XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200345Z" creationid="Kos Ivantsov" creationdate="20210406T200319Z">
+        <seg>Файли XML (фільтр Okapi — XML Stream)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T200329Z" creationid="Kos Ivantsov" creationdate="20210406T200329Z">
+        <seg>Файли YAML (фільтр Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210406T195629Z" creationid="Kos Ivantsov" creationdate="20210406T195629Z">
+        <seg>Необхідно вказати шлях.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">Cancel.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105658Z" creationid="Kos Ivantsov" creationdate="20210416T105658Z">
+        <seg>С</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">LineNumber.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105620Z" creationid="Kos Ivantsov" creationdate="20210416T105620Z">
+        <seg>Н</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">OK.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105649Z" creationid="Kos Ivantsov" creationdate="20210416T105649Z">
+        <seg>Г</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">Cancel.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111506Z" creationid="Kos Ivantsov" creationdate="20210416T111506Z">
+        <seg>С</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">Encoding.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111421Z" creationid="Kos Ivantsov" creationdate="20210416T111421Z">
+        <seg>К</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">LineTerminator.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111409Z" creationid="Kos Ivantsov" creationdate="20210416T111409Z">
+        <seg>Р</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">OK.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111501Z" creationid="Kos Ivantsov" creationdate="20210416T111501Z">
+        <seg>Г</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">Path.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T111351Z" creationid="Kos Ivantsov" creationdate="20210416T111351Z">
+        <seg>Ш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">CancelMnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110500Z" creationid="Kos Ivantsov" creationdate="20210416T110500Z">
+        <seg>С</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">DownMnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105748Z" creationid="Kos Ivantsov" creationdate="20210416T105748Z">
+        <seg>З</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Find</prop>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110116Z" creationid="Kos Ivantsov" creationdate="20210416T110116Z">
+        <seg>Знайти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Find.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110233Z" creationid="Kos Ivantsov" creationdate="20210416T110233Z">
+        <seg>Й</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">FindDialogTitle</prop>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105723Z" creationid="Kos Ivantsov" creationdate="20210416T105723Z">
+        <seg>Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">FindWhat.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110033Z" creationid="Kos Ivantsov" creationdate="20210416T110033Z">
+        <seg>А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">MarkAllMnemonic</prop>
+      <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110447Z" creationid="Kos Ivantsov" creationdate="20210416T110447Z">
+        <seg>Ч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">MatchCaseMnemonic</prop>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105823Z" creationid="Kos Ivantsov" creationdate="20210416T105823Z">
+        <seg>Х</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">RegExMnemonic</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105838Z" creationid="Kos Ivantsov" creationdate="20210416T105838Z">
+        <seg>Л</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Replace</prop>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110147Z" creationid="Kos Ivantsov" creationdate="20210416T110147Z">
+        <seg>Замінити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Replace.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110333Z" creationid="Kos Ivantsov" creationdate="20210416T110333Z">
+        <seg>М</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">ReplaceAll.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110429Z" creationid="Kos Ivantsov" creationdate="20210416T110429Z">
+        <seg>Е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">ReplaceDialogTitle</prop>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105729Z" creationid="Kos Ivantsov" creationdate="20210416T105729Z">
+        <seg>Заміна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">ReplaceWith.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110044Z" creationid="Kos Ivantsov" creationdate="20210416T110044Z">
+        <seg>І</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">UpMnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105745Z" creationid="Kos Ivantsov" creationdate="20210416T105745Z">
+        <seg>Г</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">WholeWordMnemonic</prop>
+      <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105827Z" creationid="Kos Ivantsov" creationdate="20210416T105827Z">
+        <seg>Ц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Wrap</prop>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T105940Z" creationid="Kos Ivantsov" creationdate="20210416T105940Z">
+        <seg>Шукати по колу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">WrapMnemonic</prop>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110013Z" creationid="Kos Ivantsov" creationdate="20210416T110013Z">
+        <seg>Ш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/SearchToolBar.properties</prop>
+      <prop type="id">ReplaceWith</prop>
+      <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110702Z" creationid="Kos Ivantsov" creationdate="20210416T110702Z">
+        <seg>Замінити на:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093002Z" creationid="Kos Ivantsov" creationdate="20210415T093002Z">
+        <seg>В</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseCommentFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093017Z" creationid="Kos Ivantsov" creationdate="20210415T093017Z">
+        <seg>К</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ExpandAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T093027Z" creationid="Kos Ivantsov" creationdate="20210415T093027Z">
+        <seg>Р</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ToggleCurrentFold.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T092937Z" creationid="Kos Ivantsov" creationdate="20210415T092937Z">
+        <seg>Б</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.ClipboardHistory.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195306Z" creationid="Kos Ivantsov" creationdate="20210415T195306Z">
+        <seg>І</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Copy.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195143Z" creationid="Kos Ivantsov" creationdate="20210415T195143Z">
+        <seg>К</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Cut.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195155Z" creationid="Kos Ivantsov" creationdate="20210415T195155Z">
+        <seg>З</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Delete.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195202Z" creationid="Kos Ivantsov" creationdate="20210415T195202Z">
+        <seg>Д</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Paste.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195218Z" creationid="Kos Ivantsov" creationdate="20210415T195218Z">
+        <seg>В</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Redo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T110345Z" creationid="Kos Ivantsov" creationdate="20210416T110345Z">
+        <seg>П</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.SelectAll.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210415T195230Z" creationid="Kos Ivantsov" creationdate="20210415T195230Z">
+        <seg>Р</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Undo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20210416T112258Z" creationid="Kos Ivantsov" creationdate="20210415T195240Z">
+        <seg>М</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
